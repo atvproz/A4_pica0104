@@ -11,7 +11,7 @@ while True:
     player = None
     computer = random.choice(options)
     print ("Welcome to Rock Paper Scissors")
-    print ("------------------------------")
+    print ("==============================")
     while player not in options:
         player = input("Enter a choice (rock, paper, scissors): ")
         if player not in options:
