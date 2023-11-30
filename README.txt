@@ -2,7 +2,7 @@
 Description:
 This python application is a very straight forward game of rock paper scissors. To play you simply enter
 rock, paper or scissors when prompted to. The computer will the randomly choose rock, paper or scissors
-as well. After both of you have choosen the computer will determine if who wins or looses. If both you
+as well. After both of you have chosen the computer will determine who wins or looses. If both you
 and the computer have the same item it will be a tie.
 How it works:
 Rock > Scissors  = Rock wins
