@@ -18,6 +18,9 @@ python solution.py.
 	B.Right click your desktop and select "Open in Terminal", this should open windows powershell
 	C.Enter the following command: python3 .\solution.py
 	D.There you go you have successfully used this application on you windows device
+3.When running with docker:
+	A. First command: docker pull pica0104/a4_pica0104:latest
+	B. Second command: docker run -i pica0104/a4_pica0104:latest
 
 URL to Github repository: https://github.com/atvproz/A4_pica0104 
 
